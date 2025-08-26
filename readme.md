@@ -1,4 +1,4 @@
-<h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
+<h1>Simulador de Corrida Mario Kart (Versão Console)</h1>
 
   <table>
         <tr>
@@ -70,6 +70,15 @@
                 <p>Velocidade: 2</p>
                 <p>Manobrabilidade: 2</p>
                 <p>Poder: 5</p>
+            </td>
+            <td style="border: 1px solid black; text-align: center;">
+                <p>Toad</p>
+                <img src="./docs/toad.gif" alt="Mario Kart" width="60" height="60">
+            </td>
+            <td style="border: 1px solid black; text-align: center;">
+                <p>Velocidade: 3</p>
+                <p>Manobrabilidade: 5</p>
+                <p>Poder: 1</p>
             </td>
         </tr>
     </table>
